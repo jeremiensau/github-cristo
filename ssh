@@ -1,0 +1,9 @@
+pwd:> comando e util para mostrar onde voce esta no sistema
+mkdir:comando´´´significa cria diretorio´´ ele recebe  um mome de diretorio como argumento e cria um novo diretorio no diretorio de trebalho actual.
+touch: comando cria nova diretorio dentro do deretorio dw trabalho
+ls: lista de todos os arquivos e diretorios no diretorio de trabalho
+cd: muda voce para o diretorio que voce especificar
+ -a: lista  todo o conteudo,incluindo arquivos e diretorios ocultos
+ -l: lista todo o conteudo de um diretorio em formeto longo
+ -t: Ordeno arquivos e diretorios no momento em que foram modificados
+ ls -alt: lista todo o conteudo,incluindo arquivos e deretorios ocultos, em formato longo, ordenados pela data e hora da ultima modificacao
